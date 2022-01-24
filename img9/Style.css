@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Global Class */
+.container{
+
+width: 90%;
+
+margin: auto;
+}
+.global-h-l{
+
+font-size: 35px;
+
+text-transform: uppercase;
+}
+.global-h-m{
+
+}
+.global-p{
+
+}
+.underline{
+
+}
+.btn{
+
+}
+/* Header part */
+header{
+
+background: #87509C;
+
+width: 100%;
+
+float: left;
+
+color: #fff;
+}
+/* Main header */
+.M-header{
+
+}
+.logo-part{
+
+width: 50%;
+
+float: left;
+}
+.menu-part{
+
+width: 50%;
+
+float: left;
+}
+.menu-part ul{
+
+margin-top: 20px;
+}
+.menu-part ul li{
+
+list-style: none;
+
+display: inline-block;
+
+margin: 0px 20px;
+
+text-align: end;
+}
+.menu-part ul li a{
+
+text-decoration: none;
+
+color: #fff;
+
+font-size: 20px;
+}
+/* Header containt */
+.H-content{
+
+text-align: center;
+
+width: 100%;
+
+float: left;
+
+margin: 100px 0;
+}
+.H-content h1{text-transform: none;}
+.H-content button{
+
+width: 200px;
+
+padding: 10px;
+}
